@@ -1,5 +1,5 @@
 # Operaciones-calculativas-en-python
-Aquí están las 4 operaciones básicas matemáticas en python (Suma)
+Aquí está la suma en python en python 
 
 --Suma--
 s1=int(input("Digite el primer numero: "))
